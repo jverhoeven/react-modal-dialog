@@ -23,7 +23,7 @@
     "immutable": "^3.7.4",
     "keycode": "^2.1.0",
     "lodash": "^3.9.3",
-    "narcissus": "^1.0.0",
+    "narcissus": "https://github.com/jverhoeven/narcissus",
     "prop-types": "^15.5.8",
     "react-center-component": "https://github.com/bluejamesbond/react-center-component"
   },
